@@ -14,7 +14,7 @@ FEEDBACK_COLUMN_TWO = "Summary"
 FEEDBACK_COLUMN_THREE = "Feedback"
 FEEDBACK_CSV = "feedback.csv"
 PROMPT = """
-Write a simple summary (not exceeding 500 words) of the following which can understand for a non technical person. Summary should focus on Climate and Environmental importance of the provided Research Paper Content:
+Write a simple summary (not exceeding 50 words) of the following which can understand for a non technical person. Summary should focus on Climate and Environmental importance of the provided Research Paper Content:
 {text}
 SIMPLE SUMMARY:
 """
