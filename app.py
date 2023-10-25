@@ -14,9 +14,9 @@ FEEDBACK_COLUMN_TWO = "Summary"
 FEEDBACK_COLUMN_THREE = "Feedback"
 FEEDBACK_CSV = "feedback.csv"
 PROMPT = """
-Write a concise summary of the following:
+Write a descriptive simple summary of the following which can understand for a non technical person. Summary should focus on Climate and Environmental importance of the provided Research Paper Content:
 {text}
-CONCISE SUMMARY:
+SIMPLE SUMMARY:
 """
 
 #disable in session state
